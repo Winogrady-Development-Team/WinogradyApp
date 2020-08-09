@@ -1,0 +1,4 @@
+Key store password: Winogrady
+Key alias: key
+Key password: Winogrady
+Key store path: C:\Users\Juliusz Saryczew\Documents\Flutter projects\WinogradyApp\my_key.jks
